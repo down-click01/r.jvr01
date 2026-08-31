@@ -1,4 +1,4 @@
-![banner](Banner.jpeg)
+![banner](banner.jpeg)
 ![banner](https://github.com/r.jvr01/r.jvr01/blob/main/banner.jpeg)
 
 <div align="center">
